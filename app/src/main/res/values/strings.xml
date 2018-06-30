@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleLogInDemo</string>
+    <string name="prof_pic">prof_pic</string>
+    <string name="server_client_id">233527772886-n5mjsl5hd76fomkkfc8errnahgqg00sk.apps.googleusercontent.com</string>
+</resources>
