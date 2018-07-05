@@ -5,3 +5,5 @@
 3. when press the logout button it will pass back to step 1.
 
 p.s. data stored by sharedpreference so it will keep the login status even reboot the app.
+
+APK upload
